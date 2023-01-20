@@ -1,4 +1,4 @@
-# YZU_cppLabs
+# YZU_cppLabs1
 
 ```
 CPP practice class in first semester of freshmen year (2022F/1111)
@@ -11,7 +11,7 @@ CPP practice class in first semester of freshmen year (2022F/1111)
 - 張維元
 
 ### Time: 
-- 2022F(1111), 18:00-19:20 Wed.
+- 2022F(1111), 18:00-19:20 Wed.S
 
 ### Intros:
 
