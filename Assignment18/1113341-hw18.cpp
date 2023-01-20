@@ -41,7 +41,7 @@ using namespace std;
 	for (int j = 0; j < 6; j++) {
 		cout << store[j] << "=>" << count[j] << endl;
 	}
-	cout << "¨ä¥L" << "=>" << count[6] << endl;
+	cout << "å…¶ä»–" << "=>" << count[6] << endl;
 }*/
 
 #include <iostream>

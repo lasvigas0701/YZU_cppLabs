@@ -4,14 +4,14 @@ using namespace std;
 int main() {
 	int a, b, change;
 
-	cout << "½Ğ¿é¤J¨â­Ó¥¿¾ã¼Æ¡G ";
+	cout << "è«‹è¼¸å…¥å…©å€‹æ­£æ•´æ•¸ï¼š ";
 	cin >> a >> b;
 
 	change = a;
 	a = b;
 	b = change;
 
-	cout << "Âà´«µ²ªG¡G" << a << " " << b;
+	cout << "è½‰æ›çµæœï¼š" << a << " " << b;
 
 	return 0;
 }

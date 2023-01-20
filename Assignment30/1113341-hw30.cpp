@@ -1,5 +1,5 @@
-/*Student ID: 1113341 Name: ±iºû®a*/
-/*¨Ï¥ÎªÌ¿é¤J¤@­Ó¼Æ¦r¥Nªí½L¼Æ¡A³z¹L»¼°j­pºâ¥X¸Ó½L¼Æ°µÂù¦âªe¤º¶ğ©Ò»İªº¦¸¼Æ*/
+/*Student ID: 1113341 Name: å¼µç¶­å®¶*/
+/*ä½¿ç”¨è€…è¼¸å…¥ä¸€å€‹æ•¸å­—ä»£è¡¨ç›¤æ•¸ï¼Œé€ééè¿´è¨ˆç®—å‡ºè©²ç›¤æ•¸åšé›™è‰²æ²³å…§å¡”æ‰€éœ€çš„æ¬¡æ•¸*/
 #include<iostream>
 using namespace std;
 
@@ -42,13 +42,13 @@ void hanoi2colors(int disks) {
 
 int main() {
     int n;
-    cout << "½Ğ¿é¤J½L¼Æ¡G";
+    cout << "è«‹è¼¸å…¥ç›¤æ•¸ï¼š";
     while (cin >> n) {
         times = 0;
         hanoi2colors(n);
         cout << "Total move: " << times << endl;
         cout << "================================\n";
-        cout << "½Ğ¿é¤J½L¼Æ¡G";
+        cout << "è«‹è¼¸å…¥ç›¤æ•¸ï¼š";
     }
     
     return 0;

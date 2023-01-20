@@ -1,4 +1,4 @@
-/*Student ID : 1113341 Name : ±iºû®a*/
+/*Student ID : 1113341 Name : å¼µç¶­å®¶*/
 /*this code is to find the quantities of fibonacci numbers which is less or equal to an user input number
  *and output the fibonacci numbers between the range of two user given numbers*/
 #include <bits/stdc++.h>

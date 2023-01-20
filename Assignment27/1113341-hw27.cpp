@@ -17,10 +17,10 @@ int main() {
 		int sum = 0, each = 0;
 		for (int i = 1; i <= n; i++) {
 			each = duck((n - i + 1));
-			cout << "¦b²Ä " << i << " §ø½æ¥X " << each << " °¦Àn" << endl;
+			cout << "åœ¨ç¬¬ " << i << " æ‘è³£å‡º " << each << " éš»é´¨" << endl;
 			sum += each;
 		}
-		cout << "¦@½æ¥X " << sum << " °¦Àn\n";
+		cout << "å…±è³£å‡º " << sum << " éš»é´¨\n";
 	}
 
 }

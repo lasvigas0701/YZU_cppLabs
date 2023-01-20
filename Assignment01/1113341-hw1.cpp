@@ -3,14 +3,14 @@
 using namespace std;
 
 int main() {
-	string name = "±iºû®a";
+	string name = "å¼µç¶­å®¶";
 	int birth = 2004;
 	int level = 3;
-	string reason = "³ßÅwcoding¸ò¹q¸£¬ì¾Çªºª¾ÃÑ¡A¿ú³~¤]¤£¿ù¡C";
+	string reason = "å–œæ­¡codingè·Ÿé›»è…¦ç§‘å­¸çš„çŸ¥è­˜ï¼ŒéŒ¢é€”ä¹Ÿä¸éŒ¯ã€‚";
 
-	cout << "«¢Åo¡A§Ú¬O" << name << "¡A¤µ¦~" << 2022 - birth << "·³¡A\n";
-	cout << "§Ú¦Û»{¹ï¼gµ{¦¡ªº¼ô±x«×¬°" << level << "¤À¡A\n";
-	cout << "§Ú·QÅª¸ê¤u¨t¬O¦]¬°" << reason << endl;
+	cout << "å“ˆå›‰ï¼Œæˆ‘æ˜¯" << name << "ï¼Œä»Šå¹´" << 2022 - birth << "æ­²ï¼Œ\n";
+	cout << "æˆ‘è‡ªèªå°å¯«ç¨‹å¼çš„ç†Ÿæ‚‰åº¦ç‚º" << level << "åˆ†ï¼Œ\n";
+	cout << "æˆ‘æƒ³è®€è³‡å·¥ç³»æ˜¯å› ç‚º" << reason << endl;
 
 	return 0;
 
