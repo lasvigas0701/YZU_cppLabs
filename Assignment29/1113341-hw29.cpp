@@ -4,11 +4,11 @@ using namespace std;
 
 void Hanoi(int n, char a, char b, char c) {
 	if (n == 1) {
-		cout << "²¾°Ê²Ä " << n << " ­Ó½L¤l±q " << a << " ¨ì " << c << endl;
+		cout << "ç§»å‹•ç¬¬ " << n << " å€‹ç›¤å­å¾ž " << a << " åˆ° " << c << endl;
 	}
 	else {
 		Hanoi(n - 1, a, c, b);
-		cout << "²¾°Ê²Ä " << n << " ­Ó½L¤l±q " << a << " ¨ì " << c << endl;
+		cout << "ç§»å‹•ç¬¬ " << n << " å€‹ç›¤å­å¾ž " << a << " åˆ° " << c << endl;
 		Hanoi(n - 1, b, a, c);
 	}
 
@@ -19,7 +19,7 @@ int main() {
 
 	while (cin >> n) {
 		Hanoi(n, 'A', 'B', 'C');
-		cout << "Á`¦@²¾°Ê " << pow(2, n) - 1 << " ¦¸";
+		cout << "ç¸½å…±ç§»å‹• " << pow(2, n) - 1 << " æ¬¡";
 	}
 
 

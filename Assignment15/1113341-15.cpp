@@ -1,4 +1,4 @@
-/*Student ID : 1113341 Name : ±iºû®a*/
+/*Student ID : 1113341 Name : å¼µç¶­å®¶*/
 /*this code is to find a number is which two numbers in a given array added up*/
 #include <iostream>
 using namespace std;

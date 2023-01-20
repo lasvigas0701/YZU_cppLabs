@@ -1,4 +1,4 @@
-/*Student ID: 1113341 Name: ±iºû®a*/
+/*Student ID: 1113341 Name: å¼µç¶­å®¶*/
 /*This program is to output the result of recursive function "f91" for each number*/
 #include <iostream>
 using namespace std;

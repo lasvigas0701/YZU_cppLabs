@@ -1,4 +1,4 @@
-/*Student ID: 1113341 Name: ±iºû®a*/
+/*Student ID: 1113341 Name: å¼µç¶­å®¶*/
 /*This code is to transform the first character of all words in a sentence to capital*/
 #include <iostream>
 #include <string>

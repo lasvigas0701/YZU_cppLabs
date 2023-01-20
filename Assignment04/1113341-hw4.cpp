@@ -3,10 +3,10 @@ using namespace std;
 
 int main() {
 	double c, f;
-	cout << "�п�J���ūסG";
+	cout << "請輸入攝氏溫度：";
 	cin >> c;
 	f = c * 9 / 5 + 32;
-	cout << "�ؤ�ū׬��G" << f;
+	cout << "華氏溫度為：" << f;
 
 
 }

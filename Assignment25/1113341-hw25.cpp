@@ -1,4 +1,4 @@
-/*Student ID: 1113341 Name: ±iºû®a*/
+/*Student ID: 1113341 Name: å¼µç¶­å®¶*/
 /*This program is to output all self-dividing numbers between two numbers entered by user.*/
 #include <iostream>
 using namespace std;

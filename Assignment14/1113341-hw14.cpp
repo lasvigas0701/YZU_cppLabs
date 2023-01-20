@@ -1,4 +1,4 @@
-/*Student ID : 1113341 Name : ±iºû®a*/
+/*Student ID : 1113341 Name : å¼µç¶­å®¶*/
 /*this code is an adaptation of uva 100 - The 3n + 1 problem givien that it will execute 3 times
  *and output the number which has the biggest cycle length and its cycle length*/
 

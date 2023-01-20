@@ -21,7 +21,7 @@ int main() {
 				cout << i << " ";
 			}
 		}
-		cout << "\n¦@" << num << "­Ó\n";
+		cout << "\nå…±" << num << "å€‹\n";
 	}
 
 
