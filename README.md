@@ -15,10 +15,8 @@ CPP practice class in first semester of freshmen year (2022F/1111)
 
 ### Intros:
 
-- This course provides us many opportunities to improve our programming ability and concepts of each　elements in cpp language by giving lots of small questions.
+- This course provides us many opportunities to improve our programming ability and concepts of each element in cpp language by giving lots of small questions.
 
 ### Guidelines:
 
-- Assignments: This folder consists of all (32) assignments (homeworks) in this course.
-
-- Sourses: All ppts given by teacher are in this folder.
+- Assignments##: ## means the number of each assignment (homework) in this course, every folder consists of a pdf question file (## 作業_##.pdf) and a cpp solution file (1113341-hw##).
