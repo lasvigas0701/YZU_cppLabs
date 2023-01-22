@@ -15,7 +15,7 @@ CPP practice class in first semester of freshmen year (2022F/1111)
 
 ### Intros:
 
-- This course provides us many opportunities to improve our programming ability and concepts of each element in cpp language by giving lots of small questions.
+- This course provides us many opportunities to improve our programming ability and concepts of each element in cpp language by giving lots of small simple questions.
 
 ### Guidelines:
 
