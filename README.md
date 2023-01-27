@@ -20,3 +20,5 @@ CPP practice class in first semester of freshmen year (2022F/1111)
 ### Guidelines:
 
 - Assignments##: ## means the number of each assignment (homework) in this course, every folder consists of a pdf question file (## 作業_##.pdf) and a cpp solution file (1113341-hw##).
+- rename.py: Change the name from hw# to Assignment##.
+- utf8.py: Change the Character encoding from big5 to utf8 to avoid garbled Chinese words.
