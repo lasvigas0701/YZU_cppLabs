@@ -1,7 +1,7 @@
 # YZU_cppLabs1
 
 ```
-CPP practice class in first semester of freshmen year (2022F/1111)
+CPP practice class in fall semester of freshmen year (2022F/1111)
 ```
 
 ### Course Name: 
