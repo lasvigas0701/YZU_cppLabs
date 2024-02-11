@@ -7,8 +7,8 @@ CPP practice class in fall semester of freshmen year (2022F/1111)
 ### Course Name: 
 - 基礎程式設計-C++實習（一） / Fundamental Computer Programming- C++ Lab(I)
 
-### Teacher: 
-- 張維元
+### Lecturer: 
+- 張維元 / Wei-Yuan Chang
 
 ### Time: 
 - 2022F(1111), 18:00-19:20 Wed.
